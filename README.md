@@ -24,10 +24,7 @@ The algorithm used in this project is **K-Nearest Neighbors (KNN)**. KNN is a si
 The project contains the following key files:
 
 - **Tulsi_Leaf_Classification.ipynb**: The main Jupyter notebook containing the code for data loading, training, prediction, and result visualization.
-- **demo.ipynb**: A demonstration notebook for testing and visualizing the model.
-- **dataset/**: A folder containing images of both **Good** and **Bad** leaves (please make sure to place the dataset in the correct directory).
 - **output.png**: Output of the confusion matrix visualization.
-- **test01.webp, test02.jpeg, test03.webp, etc.**: Sample test images used to evaluate the model.
 
 ## Working Flow
 
